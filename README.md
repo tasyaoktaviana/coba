@@ -1,5 +1,5 @@
 # ruang-belajar
 Contributor:
 
-- `<Tasya Oktaviana Dwi Cahyanti> - <FE4300716>`
+- `Tasya Oktaviana Dwi Cahyanti - FE4300716`
 - Bob
